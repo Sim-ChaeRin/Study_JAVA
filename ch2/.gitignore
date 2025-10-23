@@ -1,0 +1,10 @@
+# Spring Boot / Java 설정파일 무시
+application.properties
+application.yml
+
+# Eclipse / STS 관련 파일 무시
+.classpath
+.project
+.settings/
+bin/
+target/
