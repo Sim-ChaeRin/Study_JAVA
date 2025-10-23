@@ -8,3 +8,8 @@ application.yml
 .settings/
 bin/
 target/
+
+# 로컬 macOS STS workspace 경로 무시
+Users/
+Documents/
+workspace/
